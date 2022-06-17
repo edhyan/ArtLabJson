@@ -1,0 +1,18 @@
+{
+    "pc": "com.backup_art.photo_mixer",
+    "link_new_app": "null",
+    "interval_inter": 3,
+    "admob": [
+      {
+        "banner": "ca-app-pub-3940256099942544/6300978111",
+        "inter": "ca-app-pub-3940256099942544/1033173712"
+      }
+    ],
+    "unity": [
+      {
+        "id_unity": "",
+        "unit_inter": ""
+      }
+    ]
+  }
+  
